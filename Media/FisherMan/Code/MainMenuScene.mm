@@ -146,7 +146,7 @@ enum {
 		
 		
 	}];
-	CCMenu *menu = [CCMenu menuWithItems:startGame,itemAchievement,itemLeaderboard,itemOptions,itemGameGuide, nil];
+	CCMenu *menu = [CCMenu menuWithItems:startGame,itemAchievement,itemLeaderboard,itemOptions,/*itemGameGuide,*/ nil];
 	
 	[menu alignItemsVertically];
 	

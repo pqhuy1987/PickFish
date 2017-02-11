@@ -57,7 +57,7 @@
             
         }];
         
-        CCMenu *menu = [CCMenu menuWithItems:itemDiffPrev,itemDiffTitle,itemDiffNext, nil];
+        CCMenu *menu = [CCMenu menuWithItems:itemDiffPrev,/*,itemDiffTitle,itemDiffNext,*/ nil];
         
         [menu alignItemsHorizontally];
         

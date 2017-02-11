@@ -142,11 +142,11 @@ enum {
 		
 	}];
     
-    CCMenuItem *itemGameGuide = [CCMenuItemFont itemWithString:@"Game Guide" block:^(id sender) {
-		
-		
-	}];
-	CCMenu *menu = [CCMenu menuWithItems:startGame,itemAchievement,itemLeaderboard,itemOptions,itemGameGuide, nil];
+//    CCMenuItem *itemGameGuide = [CCMenuItemFont itemWithString:@"Game Guide" block:^(id sender) {
+//		
+//		
+//	}];
+	CCMenu *menu = [CCMenu menuWithItems:startGame,itemAchievement,itemLeaderboard,itemOptions/*,itemGameGuide*/, nil];
 	
 	[menu alignItemsVertically];
 	
