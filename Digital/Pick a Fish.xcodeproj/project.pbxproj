@@ -2032,7 +2032,7 @@
 					"-lz",
 					"-ObjC",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.digital.pickfish.100;
+				PRODUCT_BUNDLE_IDENTIFIER = com.digital.dangerrabbit.100;
 				PRODUCT_NAME = "Pick a Fish";
 				TARGETED_DEVICE_FAMILY = 1;
 				USER_HEADER_SEARCH_PATHS = "\"FisherMan/libs\"";
@@ -2059,7 +2059,7 @@
 					"-lz",
 					"-ObjC",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.digital.pickfish.100;
+				PRODUCT_BUNDLE_IDENTIFIER = com.digital.dangerrabbit.100;
 				PRODUCT_NAME = "Pick a Fish";
 				TARGETED_DEVICE_FAMILY = 1;
 				USER_HEADER_SEARCH_PATHS = "\"FisherMan/libs\"";
